@@ -1,0 +1,11 @@
+classify:
+
+actual: 1
+
+20,_,3,female,60,0,0,7.225,1
+
+regression:
+
+actual: 8540000
+
+_,6540,4,2,2,yes,yes,yes,no,yes,2,yes,furnished

@@ -13,3 +13,4 @@
 */.hgsub
 */.hgsubst
 .DS_Store
+node_modules
