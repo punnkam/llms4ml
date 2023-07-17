@@ -1,5 +1,5 @@
 # llms4ml
-[SDxAI Hack](https://devpost.com/submit-to/18548-sdxai-hackathon/manage/submissions/422152-claudeml/project-overview](https://devpost.com/software/claudeml)
+[SDxAI Hack](https://devpost.com/software/claudeml)
 
 [Video Demo](https://youtu.be/0T8dK34nkB8)
 
